@@ -1,0 +1,26 @@
+# NAME: SiriAI
+# AUTHOR: lirob
+# UPDATED: 2025-09-25 
+# HOST-SUFFIX: 2
+# HOST: 15
+# TOTAL: 17
+HOST,gateway.icloud.com,SiriAI
+HOST,seed.siri.apple.com,SiriAI
+HOST,probe.icloud.com,SiriAI
+HOST,ometrics.icloud.com,SiriAI
+HOST,guzzoni.apple.com,SiriAI
+HOST-SUFFIX,smoot.apple.com,SiriAI
+
+HOST,apple-relay.apple.com,SiriAI
+HOST,apple-relay.cloudflare.com,SiriAI
+HOST,apple-relay.fastly-edge.com,SiriAI
+HOST,cp4.cloudflare.com,SiriAI
+
+HOST,apple-relay.mask.apple-dns.net,SiriAI
+HOST,ask-api.icloud.com,SiriAI
+HOST,mask-api.fe2.apple-dns.net,SiriAI
+HOST,apple-relay.akamaized.net,SiriAI
+HOST-SUFFIX,apple-carry-relay.cloudflare.com,SiriAI
+
+HOST,gspe1-ssl.ls.apple.com,SiriAI
+HOST,api-siri-prod.apple.com,SiriAI
