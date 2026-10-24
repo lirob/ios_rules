@@ -1,6 +1,6 @@
 # NAME: Ai Rules
 # AUTHOR: thanks@ddgksf2021, transfer from to quanx to loon
-# UPDATED: 2026-3-10
+# UPDATED: 2026-10-24
 
 # > Ai general rules
 DOMAIN,api.statsig.com
@@ -30,6 +30,10 @@ DOMAIN-SUFFIX,claudeusercontent.com
 
 # > Cursor
 DOMAIN-SUFFIX,cursor.sh
+DOMAIN-SUFFIX,cursor.com
+DOMAIN-SUFFIX,cursor-cdn.com
+DOMAIN-SUFFIX,cursorapi.com
+DOMAIN-SUFFIX,cursorvm.com
 
 # > Dify AI
 DOMAIN-SUFFIX,dify.ai
@@ -57,6 +61,18 @@ DOMAIN-SUFFIX,grazie.ai
 # > Meta
 DOMAIN-SUFFIX,meta.ai
 DOMAIN-SUFFIX,meta.com
+DOMAIN-SUFFIX,atmeta.com
+DOMAIN-SUFFIX,llamameta.net
+DOMAIN-SUFFIX,llama.com
+
+# > Muse AI
+DOMAIN-SUFFIX,muse.ai
+DOMAIN,production.museai.com
+DOMAIN,connect.facebook.net
+DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+DOMAIN-SUFFIX,facebook.com
+DOMAIN-SUFFIX,fbcdn.net
 
 # > Notebooklm
 DOMAIN-SUFFIX,notebooklm.google.com
